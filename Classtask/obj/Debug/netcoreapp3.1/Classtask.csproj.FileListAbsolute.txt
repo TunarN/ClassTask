@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Classtask\Classtask\obj\Debug\netcoreapp3.1\Classtask.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Classtask\Classtask\obj\Debug\netcoreapp3.1\Classtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Classtask\Classtask\obj\Debug\netcoreapp3.1\Classtask.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Classtask\Classtask\obj\Debug\netcoreapp3.1\Classtask.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Classtask\Classtask\obj\Debug\netcoreapp3.1\Classtask.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Classtask\Classtask\bin\Debug\netcoreapp3.1\Classtask.exe
+C:\Users\lenovo\source\repos\Classtask\Classtask\bin\Debug\netcoreapp3.1\Classtask.deps.json
+C:\Users\lenovo\source\repos\Classtask\Classtask\bin\Debug\netcoreapp3.1\Classtask.runtimeconfig.json
+C:\Users\lenovo\source\repos\Classtask\Classtask\bin\Debug\netcoreapp3.1\Classtask.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Classtask\Classtask\bin\Debug\netcoreapp3.1\Classtask.dll
+C:\Users\lenovo\source\repos\Classtask\Classtask\bin\Debug\netcoreapp3.1\Classtask.pdb
+C:\Users\lenovo\source\repos\Classtask\Classtask\obj\Debug\netcoreapp3.1\Classtask.dll
+C:\Users\lenovo\source\repos\Classtask\Classtask\obj\Debug\netcoreapp3.1\Classtask.pdb
+C:\Users\lenovo\source\repos\Classtask\Classtask\obj\Debug\netcoreapp3.1\Classtask.genruntimeconfig.cache
